@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "author": "LuciusWeb.es",
+  "license": "ISC",
+  "dependencies": {
+    "node-media-server": "^2.3.8"
+  }
+}
